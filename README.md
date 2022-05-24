@@ -1,7 +1,7 @@
 <h1> Stop the War Newsletter</h1>
 <h4>Newsletter</h4>
 <h4>Link to project: https://www.debellotteconsulting.com/copy-of-landing-pages <h4>
-//<img src="https://static.wixstatic.com/media/9c9835_99e25289a0804980b85e3e39c9c9d71c~mv2.gif" alt='giveaway'>
+//<img src="https://user-images.githubusercontent.com/103595605/170150718-f626edbb-ca55-4ebc-85b1-818da48eccd9.png" alt='giveaway'>
   
  <br>
 <h2>How It's Made:</h2>
